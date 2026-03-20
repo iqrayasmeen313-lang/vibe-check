@@ -168,4 +168,4 @@ function restart() {
 
 // SESSION 4 ─── `this` intuition
 // We'll build a QuizMaster object and discover the arrow vs
-// traditional function difference the hard waya
+// traditional function difference the hard way
